@@ -1,0 +1,9 @@
+sequence,map,method,matched %,map IoU %,Acc,BalAcc
+UFPR04/Cloudy,fixed map,A: Canny edge density,42.9,39.0,75.3,66.7
+UFPR04/Cloudy,fixed map,B: Space features + SVM,42.9,39.0,49.7,60.8
+UFPR04/Cloudy,fixed map,C: YOLOv8 detection,42.9,39.0,80.3,85.4
+UFPR04/Cloudy,fixed map,D: Hybrid (B + C),42.9,39.0,71.0,68.3
+UFPR04/Cloudy,registered,A: Canny edge density,100.0,70.4,82.1,64.2
+UFPR04/Cloudy,registered,B: Space features + SVM,100.0,70.4,92.1,90.1
+UFPR04/Cloudy,registered,C: YOLOv8 detection,100.0,70.4,99.0,94.9
+UFPR04/Cloudy,registered,D: Hybrid (B + C),100.0,70.4,96.9,93.8

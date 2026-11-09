@@ -1,0 +1,21 @@
+scenario,method,Acc,BalAcc,BalAcc tracked,map IoU %
+clean,A: Canny edge density,80.0,74.7,73.9,-
+clean,B: Space features + SVM,95.8,97.0,96.9,-
+clean,C: YOLOv8 detection,93.4,95.5,95.5,-
+clean,D: Hybrid (B + C),96.5,97.5,97.7,-
+shadow,A: Canny edge density,72.9,73.8,72.2,-
+shadow,B: Space features + SVM,88.8,92.6,93.7,-
+shadow,C: YOLOv8 detection,88.9,92.6,92.6,-
+shadow,D: Hybrid (B + C),92.5,95.0,95.7,-
+occlusion,A: Canny edge density,73.5,71.5,70.4,-
+occlusion,B: Space features + SVM,80.9,86.1,86.8,-
+occlusion,C: YOLOv8 detection,79.9,86.0,86.0,-
+occlusion,D: Hybrid (B + C),80.8,86.8,87.4,-
+shake_fixed,A: Canny edge density,55.5,59.9,58.1,37.7
+shake_fixed,B: Space features + SVM,65.4,71.3,73.0,37.7
+shake_fixed,C: YOLOv8 detection,70.2,74.4,74.4,37.7
+shake_fixed,D: Hybrid (B + C),71.1,74.1,75.5,37.7
+shake_registered,A: Canny edge density,75.4,73.7,73.0,90.6
+shake_registered,B: Space features + SVM,95.3,96.0,96.2,90.6
+shake_registered,C: YOLOv8 detection,91.2,93.3,93.3,90.6
+shake_registered,D: Hybrid (B + C),96.7,96.9,97.0,90.6
