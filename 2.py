@@ -97,6 +97,7 @@ SERIES = {"A": "#2a78d6", "B": "#eb6834", "C": "#1baf7a", "D": "#eda100"}
 HEAT_COLORS = ["#f0efec", "#86b6ef", "#eb6834", "#6250d6"]  # free ok, occupied ok, false occupied, missed
 HEAT_NAMES = ["Free (correct)", "Occupied (correct)", "False occupied", "Missed occupied"]
 GOOD_BGR, CRITICAL_BGR, WARNING_BGR, BLUE_BGR = (12, 163, 12), (59, 59, 208), (25, 178, 250), (214, 120, 42)
+MAP_BGR = (0, 215, 255)  # annotated space map in the discovery figure (yellow, so it is not read as "free")
 
 plt.rcParams.update({"font.family": ["Segoe UI", "DejaVu Sans"], "axes.titlesize": 11,
                      "axes.labelcolor": INK_2, "text.color": INK})
@@ -983,7 +984,7 @@ def main():
                               100 * hit.sum() / max(len(found), 1)])
             img = imread(res["img_paths"][len(res["img_paths"]) // 2])
             for p in gt_polys:
-                cv2.polylines(img, [p], True, GOOD_BGR, 1)
+                cv2.polylines(img, [p], True, MAP_BGR, 1)
             for b in found:
                 cv2.rectangle(img, (int(b[0]), int(b[1])), (int(b[2]), int(b[3])), BLUE_BGR, 2)
             imwrite(os.path.join(OUTPUT_ROOT, f"{res['camera']}_{res['condition']}", "space_discovery.jpg"), img)
