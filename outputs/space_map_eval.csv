@@ -1,0 +1,4 @@
+position,days,frames,PKLot spaces,added spaces,layout recall %,discovered extra,recall of added %,precision of discovered %
+PUCPR_2012-09-11,32,105,100,181,96.1,168,90.6,97.6
+UFPR04_2012-12-07,17,70,28,32,98.3,32,93.8,93.8
+UFPR04_2013-01-15,9,35,28,33,100.0,36,100.0,91.7

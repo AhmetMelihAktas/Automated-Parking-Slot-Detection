@@ -1,0 +1,515 @@
+<?xml version='1.0' encoding='utf-8'?>
+<parking id="UFPR04">
+  <space id="1" source="pklot">
+    <contour>
+      <point x="201" y="115" />
+      <point x="237" y="115" />
+      <point x="237" y="166" />
+      <point x="201" y="166" />
+    </contour>
+  </space>
+  <space id="2" source="pklot">
+    <contour>
+      <point x="241" y="120" />
+      <point x="274" y="120" />
+      <point x="274" y="169" />
+      <point x="241" y="169" />
+    </contour>
+  </space>
+  <space id="3" source="pklot">
+    <contour>
+      <point x="183" y="138" />
+      <point x="218" y="138" />
+      <point x="218" y="188" />
+      <point x="183" y="188" />
+    </contour>
+  </space>
+  <space id="4" source="pklot">
+    <contour>
+      <point x="222" y="138" />
+      <point x="260" y="138" />
+      <point x="260" y="188" />
+      <point x="222" y="188" />
+    </contour>
+  </space>
+  <space id="5" source="pklot">
+    <contour>
+      <point x="162" y="159" />
+      <point x="198" y="159" />
+      <point x="198" y="213" />
+      <point x="162" y="213" />
+    </contour>
+  </space>
+  <space id="6" source="pklot">
+    <contour>
+      <point x="207" y="168" />
+      <point x="246" y="168" />
+      <point x="246" y="218" />
+      <point x="207" y="218" />
+    </contour>
+  </space>
+  <space id="7" source="pklot">
+    <contour>
+      <point x="345" y="154" />
+      <point x="394" y="154" />
+      <point x="394" y="192" />
+      <point x="345" y="192" />
+    </contour>
+  </space>
+  <space id="8" source="pklot">
+    <contour>
+      <point x="405" y="155" />
+      <point x="451" y="155" />
+      <point x="451" y="198" />
+      <point x="405" y="198" />
+    </contour>
+  </space>
+  <space id="9" source="pklot">
+    <contour>
+      <point x="137" y="186" />
+      <point x="178" y="186" />
+      <point x="178" y="244" />
+      <point x="137" y="244" />
+    </contour>
+  </space>
+  <space id="10" source="pklot">
+    <contour>
+      <point x="342" y="182" />
+      <point x="392" y="182" />
+      <point x="392" y="223" />
+      <point x="342" y="223" />
+    </contour>
+  </space>
+  <space id="11" source="pklot">
+    <contour>
+      <point x="395" y="176" />
+      <point x="444" y="176" />
+      <point x="444" y="222" />
+      <point x="395" y="222" />
+    </contour>
+  </space>
+  <space id="12" source="pklot">
+    <contour>
+      <point x="108" y="206" />
+      <point x="152" y="206" />
+      <point x="152" y="279" />
+      <point x="108" y="279" />
+    </contour>
+  </space>
+  <space id="13" source="pklot">
+    <contour>
+      <point x="181" y="190" />
+      <point x="222" y="190" />
+      <point x="222" y="252" />
+      <point x="181" y="252" />
+    </contour>
+  </space>
+  <space id="14" source="pklot">
+    <contour>
+      <point x="319" y="210" />
+      <point x="376" y="210" />
+      <point x="376" y="256" />
+      <point x="319" y="256" />
+    </contour>
+  </space>
+  <space id="15" source="pklot">
+    <contour>
+      <point x="384" y="202" />
+      <point x="434" y="202" />
+      <point x="434" y="254" />
+      <point x="384" y="254" />
+    </contour>
+  </space>
+  <space id="16" source="pklot">
+    <contour>
+      <point x="161" y="222" />
+      <point x="200" y="222" />
+      <point x="200" y="288" />
+      <point x="161" y="288" />
+    </contour>
+  </space>
+  <space id="17" source="pklot">
+    <contour>
+      <point x="75" y="235" />
+      <point x="124" y="235" />
+      <point x="124" y="313" />
+      <point x="75" y="313" />
+    </contour>
+  </space>
+  <space id="18" source="pklot">
+    <contour>
+      <point x="317" y="240" />
+      <point x="372" y="240" />
+      <point x="372" y="290" />
+      <point x="317" y="290" />
+    </contour>
+  </space>
+  <space id="19" source="pklot">
+    <contour>
+      <point x="374" y="236" />
+      <point x="430" y="236" />
+      <point x="430" y="296" />
+      <point x="374" y="296" />
+    </contour>
+  </space>
+  <space id="20" source="pklot">
+    <contour>
+      <point x="131" y="259" />
+      <point x="176" y="259" />
+      <point x="176" y="333" />
+      <point x="131" y="333" />
+    </contour>
+  </space>
+  <space id="21" source="pklot">
+    <contour>
+      <point x="43" y="278" />
+      <point x="89" y="278" />
+      <point x="89" y="362" />
+      <point x="43" y="362" />
+    </contour>
+  </space>
+  <space id="22" source="pklot">
+    <contour>
+      <point x="291" y="284" />
+      <point x="354" y="284" />
+      <point x="354" y="344" />
+      <point x="291" y="344" />
+    </contour>
+  </space>
+  <space id="23" source="pklot">
+    <contour>
+      <point x="357" y="278" />
+      <point x="416" y="278" />
+      <point x="416" y="346" />
+      <point x="357" y="346" />
+    </contour>
+  </space>
+  <space id="24" source="pklot">
+    <contour>
+      <point x="350" y="326" />
+      <point x="412" y="326" />
+      <point x="412" y="407" />
+      <point x="350" y="407" />
+    </contour>
+  </space>
+  <space id="25" source="pklot">
+    <contour>
+      <point x="333" y="380" />
+      <point x="400" y="380" />
+      <point x="400" y="480" />
+      <point x="333" y="480" />
+    </contour>
+  </space>
+  <space id="26" source="pklot">
+    <contour>
+      <point x="315" y="449" />
+      <point x="392" y="449" />
+      <point x="392" y="559" />
+      <point x="315" y="559" />
+    </contour>
+  </space>
+  <space id="27" source="pklot">
+    <contour>
+      <point x="289" y="507" />
+      <point x="364" y="507" />
+      <point x="364" y="630" />
+      <point x="289" y="630" />
+    </contour>
+  </space>
+  <space id="28" source="pklot">
+    <contour>
+      <point x="189" y="524" />
+      <point x="282" y="524" />
+      <point x="282" y="632" />
+      <point x="189" y="632" />
+    </contour>
+  </space>
+  <space id="29" source="proposed">
+    <contour>
+      <point x="374" y="87" />
+      <point x="406" y="87" />
+      <point x="406" y="119" />
+      <point x="374" y="119" />
+    </contour>
+  </space>
+  <space id="30" source="proposed">
+    <contour>
+      <point x="421" y="89" />
+      <point x="455" y="89" />
+      <point x="455" y="119" />
+      <point x="421" y="119" />
+    </contour>
+  </space>
+  <space id="31" source="proposed">
+    <contour>
+      <point x="114" y="104" />
+      <point x="137" y="104" />
+      <point x="137" y="136" />
+      <point x="114" y="136" />
+    </contour>
+  </space>
+  <space id="32" source="proposed">
+    <contour>
+      <point x="351" y="100" />
+      <point x="379" y="100" />
+      <point x="379" y="129" />
+      <point x="351" y="129" />
+    </contour>
+  </space>
+  <space id="33" source="proposed">
+    <contour>
+      <point x="83" y="124" />
+      <point x="118" y="124" />
+      <point x="118" y="151" />
+      <point x="83" y="151" />
+    </contour>
+  </space>
+  <space id="34" source="proposed">
+    <contour>
+      <point x="150" y="119" />
+      <point x="176" y="119" />
+      <point x="176" y="152" />
+      <point x="150" y="152" />
+    </contour>
+  </space>
+  <space id="35" source="proposed">
+    <contour>
+      <point x="309" y="120" />
+      <point x="327" y="120" />
+      <point x="327" y="152" />
+      <point x="309" y="152" />
+    </contour>
+  </space>
+  <space id="36" source="proposed">
+    <contour>
+      <point x="43" y="144" />
+      <point x="74" y="144" />
+      <point x="74" y="182" />
+      <point x="43" y="182" />
+    </contour>
+  </space>
+  <space id="37" source="proposed">
+    <contour>
+      <point x="127" y="139" />
+      <point x="157" y="139" />
+      <point x="157" y="179" />
+      <point x="127" y="179" />
+    </contour>
+  </space>
+  <space id="38" source="proposed">
+    <contour>
+      <point x="295" y="145" />
+      <point x="318" y="145" />
+      <point x="318" y="179" />
+      <point x="295" y="179" />
+    </contour>
+  </space>
+  <space id="39" source="proposed">
+    <contour>
+      <point x="474" y="151" />
+      <point x="493" y="151" />
+      <point x="493" y="182" />
+      <point x="474" y="182" />
+    </contour>
+  </space>
+  <space id="40" source="proposed">
+    <contour>
+      <point x="13" y="170" />
+      <point x="48" y="170" />
+      <point x="48" y="207" />
+      <point x="13" y="207" />
+    </contour>
+  </space>
+  <space id="41" source="proposed">
+    <contour>
+      <point x="96" y="170" />
+      <point x="129" y="170" />
+      <point x="129" y="212" />
+      <point x="96" y="212" />
+    </contour>
+  </space>
+  <space id="42" source="proposed">
+    <contour>
+      <point x="278" y="172" />
+      <point x="306" y="172" />
+      <point x="306" y="210" />
+      <point x="278" y="210" />
+    </contour>
+  </space>
+  <space id="43" source="proposed">
+    <contour>
+      <point x="472" y="179" />
+      <point x="494" y="179" />
+      <point x="494" y="216" />
+      <point x="472" y="216" />
+    </contour>
+  </space>
+  <space id="44" source="proposed">
+    <contour>
+      <point x="65" y="200" />
+      <point x="102" y="200" />
+      <point x="102" y="244" />
+      <point x="65" y="244" />
+    </contour>
+  </space>
+  <space id="45" source="proposed">
+    <contour>
+      <point x="262" y="202" />
+      <point x="291" y="202" />
+      <point x="291" y="241" />
+      <point x="262" y="241" />
+    </contour>
+  </space>
+  <space id="46" source="proposed">
+    <contour>
+      <point x="469" y="208" />
+      <point x="493" y="208" />
+      <point x="493" y="251" />
+      <point x="469" y="251" />
+    </contour>
+  </space>
+  <space id="47" source="proposed">
+    <contour>
+      <point x="25" y="236" />
+      <point x="66" y="236" />
+      <point x="66" y="288" />
+      <point x="25" y="288" />
+    </contour>
+  </space>
+  <space id="48" source="proposed">
+    <contour>
+      <point x="241" y="235" />
+      <point x="275" y="235" />
+      <point x="275" y="281" />
+      <point x="241" y="281" />
+    </contour>
+  </space>
+  <space id="49" source="proposed">
+    <contour>
+      <point x="466" y="254" />
+      <point x="491" y="254" />
+      <point x="491" y="299" />
+      <point x="466" y="299" />
+    </contour>
+  </space>
+  <space id="50" source="proposed">
+    <contour>
+      <point x="530" y="265" />
+      <point x="564" y="265" />
+      <point x="564" y="306" />
+      <point x="530" y="306" />
+    </contour>
+  </space>
+  <space id="51" source="proposed">
+    <contour>
+      <point x="0" y="286" />
+      <point x="16" y="286" />
+      <point x="16" y="327" />
+      <point x="0" y="327" />
+    </contour>
+  </space>
+  <space id="52" source="proposed">
+    <contour>
+      <point x="216" y="275" />
+      <point x="256" y="275" />
+      <point x="256" y="328" />
+      <point x="216" y="328" />
+    </contour>
+  </space>
+  <space id="53" source="proposed">
+    <contour>
+      <point x="104" y="306" />
+      <point x="135" y="306" />
+      <point x="135" y="338" />
+      <point x="104" y="338" />
+    </contour>
+  </space>
+  <space id="54" source="proposed">
+    <contour>
+      <point x="463" y="290" />
+      <point x="493" y="290" />
+      <point x="493" y="349" />
+      <point x="463" y="349" />
+    </contour>
+  </space>
+  <space id="55" source="proposed">
+    <contour>
+      <point x="186" y="325" />
+      <point x="229" y="325" />
+      <point x="229" y="373" />
+      <point x="186" y="373" />
+    </contour>
+  </space>
+  <space id="56" source="proposed">
+    <contour>
+      <point x="533" y="308" />
+      <point x="582" y="308" />
+      <point x="582" y="356" />
+      <point x="533" y="356" />
+    </contour>
+  </space>
+  <space id="57" source="proposed">
+    <contour>
+      <point x="13" y="341" />
+      <point x="44" y="341" />
+      <point x="44" y="384" />
+      <point x="13" y="384" />
+    </contour>
+  </space>
+  <space id="58" source="proposed">
+    <contour>
+      <point x="302" y="335" />
+      <point x="342" y="335" />
+      <point x="342" y="376" />
+      <point x="302" y="376" />
+    </contour>
+  </space>
+  <space id="59" source="proposed">
+    <contour>
+      <point x="528" y="357" />
+      <point x="577" y="357" />
+      <point x="577" y="401" />
+      <point x="528" y="401" />
+    </contour>
+  </space>
+  <space id="60" source="proposed">
+    <contour>
+      <point x="460" y="356" />
+      <point x="492" y="356" />
+      <point x="492" y="427" />
+      <point x="460" y="427" />
+    </contour>
+  </space>
+  <space id="61" source="proposed">
+    <contour>
+      <point x="27" y="415" />
+      <point x="56" y="415" />
+      <point x="56" y="489" />
+      <point x="27" y="489" />
+    </contour>
+  </space>
+  <space id="62" source="proposed">
+    <contour>
+      <point x="451" y="426" />
+      <point x="487" y="426" />
+      <point x="487" y="507" />
+      <point x="451" y="507" />
+    </contour>
+  </space>
+  <space id="63" source="proposed">
+    <contour>
+      <point x="442" y="509" />
+      <point x="486" y="509" />
+      <point x="486" y="624" />
+      <point x="442" y="624" />
+    </contour>
+  </space>
+  <space id="64" source="proposed">
+    <contour>
+      <point x="53" y="548" />
+      <point x="95" y="548" />
+      <point x="95" y="637" />
+      <point x="53" y="637" />
+    </contour>
+  </space>
+</parking>

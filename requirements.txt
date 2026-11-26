@@ -1,0 +1,8 @@
+# Python 3.13 or 3.14 (the versions the project was run with)
+numpy
+opencv-python        # GUI build of OpenCV: space_map_tool.py opens a window (not opencv-python-headless)
+matplotlib
+scikit-image
+scikit-learn
+shapely
+ultralytics          # YOLOv8 for methods C and D (installs PyTorch); without it C and D are skipped

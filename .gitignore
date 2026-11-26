@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+
+# course report files are kept locally, not in this repository
+G13*.pdf
+G13*.zip

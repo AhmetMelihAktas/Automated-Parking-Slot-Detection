@@ -9,12 +9,11 @@ Roboflow export has no camera/weather folders, so:
               (Sunny = hard shadows, Cloudy = diffuse light + dry asphalt,
                Rainy = dark wet asphalt / reflections / drops on the lens).
   * XML     : generated from COCO bounding boxes (axis-aligned, in 640x640 coords),
-              written in the same format that parse_pklot_xml() in 1.py reads.
+              written in the same format that parse_pklot_xml() in Smart_Parking_Occupancy_and_Parking_Analytics.py reads.
 
 Also writes a separate calibration set
     -> PKLot_calibration/<Camera>/<date>/...
-taken only from dates that are NOT used in the test folders. 1.py uses it to choose
-the Canny edge-density threshold per camera, so the test images never influence the threshold.
+taken only from dates that are NOT used in the test folders. Smart_Parking_Occupancy_and_Parking_Analytics.py uses it to train the SVMs and to choose the Canny / YOLO thresholds per camera, so the test images never influence them.
 
 Usage (from the Project folder):
     python prepare_dataset.py
@@ -48,7 +47,7 @@ SELECTION = {
 # Calibration images: evenly spread over all other dates of the camera, daytime only
 CALIBRATION_WINDOW = ("09:00", "17:00")
 
-# Camera never used for training/calibration (tests viewpoint generalisation in 2.py):
+# Camera never used for training/calibration (tests viewpoint generalisation in the main script):
 # camera -> daytime window; images are spread evenly over all of its dates
 UNSEEN = {"UFPR05": ("09:00", "17:00")}
 
