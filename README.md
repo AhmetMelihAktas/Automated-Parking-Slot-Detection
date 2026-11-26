@@ -44,7 +44,8 @@ pip install -r requirements.txt
 
 ## Running
 
-Paths are relative to the scripts, so they can be started from any folder.
+Run the commands below from this folder: the main program reads its data and writes `outputs/` relative to the
+current folder.
 
 **1. Prepare the data (optional).** The prepared folders `PKLot/`, `PKLot_calibration/` and `PKLot_unseen/` are
 already in the repository. To rebuild them, download the PKLot export from Roboflow in COCO format, unpack it next
